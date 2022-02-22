@@ -1,5 +1,7 @@
 # Hackintosh on the Thinkpad L440 and T440p
 
+![](https://raw.githubusercontent.com/ulisesvina/hackintosh-thinkpad-l440/main/Captura%20de%20Pantalla%202022-02-22%20a%20la(s)%202.47.33%20p.m..png)
+
 **NOTE:** Hackintosh-ing is a process that's against the Apple® macOS™ End-User License Agreement (EULA). I am not responsable for any legal problems you may or may not be involved in for installing macOS™ on non-Apple hardware, as I'm not providing the media for installing macOS™, but rather, open-source software that can be used for the purpose of Hackintoshing, which is not against to the EULA for it's own.</br>
 
 ## What works (as of now, feb. 22, 2022):
